@@ -1,2 +1,2 @@
 # Wello world
- repositorio ver
+ repositorio 
